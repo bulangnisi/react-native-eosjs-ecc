@@ -12,9 +12,9 @@ npm install react-native-eosjs-ecc --save
 
 # use
 
-```
-
 App.js
+
+```js
 
 import React, { Component } from 'react';
 import { Platform, StyleSheet, View, Button } from 'react-native';
