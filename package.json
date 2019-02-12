@@ -1,0 +1,25 @@
+{
+  "name": "react-native-eosjs-ecc",
+  "version": "1.0.0",
+  "description": "Use eosjs-ecc on react native",
+  "main": "src/Ecc.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulangnisi/react-native-eosjs-ecc.git"
+  },
+  "keywords": [
+    "eos",
+    "eosjs",
+    "eosjs-ecc",
+    "ecc",
+    "react-native"
+  ],
+  "author": "benj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulangnisi/react-native-eosjs-ecc/issues"
+  },
+  "homepage": "https://github.com/bulangnisi/react-native-eosjs-ecc#readme"
+}
