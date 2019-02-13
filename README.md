@@ -6,7 +6,7 @@ Use eosjs-ecc on react native
 
 ```
 
-npm install react-native-eosjs-ecc --save
+npm install https://github.com/bulangnisi/react-native-eosjs-ecc.git --save
 
 ```
 
