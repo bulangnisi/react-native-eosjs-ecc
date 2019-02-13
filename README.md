@@ -25,7 +25,12 @@ export default class App extends Component{
     handleEcc(){
         Ecc.randomKey().then(key => {
             console.log('randomKey ', key);
-        })
+		});
+		
+		let privKey = '5K9gVJNGqzMnKajtJaK3kcxWZ9xXj5SVJY47SD2B5uD4WMNtr9w';
+		Ecc.privateToPublic(privKey).then(pubKey => {
+            console.log('pubKey ', pubKey);
+        });
     }
 
     render(){
